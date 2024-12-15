@@ -177,7 +177,7 @@ MonoBehaviour:
   hasUpgradedFromAgentParameters: 1
   MaxStep: 0
   Target: {fileID: 1636518324}
-  forceMultiplier: 10
+  forceMultiplier: 2
 --- !u!114 &172970143
 MonoBehaviour:
   m_ObjectHideFlags: 0
